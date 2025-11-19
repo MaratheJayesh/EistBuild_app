@@ -1,0 +1,7 @@
+streamlit>=1.2
+ezdxf>=1.0
+Shapely>=1.8
+matplotlib
+pandas
+openpyxl
+numpy
